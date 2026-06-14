@@ -1,0 +1,16 @@
+{
+  "KOVANMOD-KOVAN_MOD.aromaPrinciple": "Lore",
+  "KOVANMOD-KOVAN_MOD.banter.alive.endTurnPing": "Co-op hurry up end turn ping message",
+  "KOVANMOD-KOVAN_MOD.banter.dead.endTurnPing": "...",
+  "KOVANMOD-KOVAN_MOD.cardsModifierDescription": "__ cards will now appear in rewards and shops.",
+  "KOVANMOD-KOVAN_MOD.cardsModifierTitle": "__ Cards",
+  "KOVANMOD-KOVAN_MOD.description": "Character Selection\nScreen Description",
+  "KOVANMOD-KOVAN_MOD.eventDeathPrevention": "Co-op survival line",
+  "KOVANMOD-KOVAN_MOD.goldMonologue": "Line spoken when obtaining a large amount of gold",
+  "KOVANMOD-KOVAN_MOD.possessiveAdjective": "his",
+  "KOVANMOD-KOVAN_MOD.pronounObject": "him",
+  "KOVANMOD-KOVAN_MOD.pronounPossessive": "his",
+  "KOVANMOD-KOVAN_MOD.pronounSubject": "he",
+  "KOVANMOD-KOVAN_MOD.title": "Kovan the Assassin",
+  "KOVANMOD-KOVAN_MOD.titleObject": "Kovan the Assassin"
+}

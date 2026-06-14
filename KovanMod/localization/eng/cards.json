@@ -1,0 +1,105 @@
+{
+  "KOVANMOD-STRIKE_KOVAN.description": "Deal {Damage:diff()} damage.",
+  "KOVANMOD-STRIKE_KOVAN.title": "Strike",
+
+  "KOVANMOD-DEFEND_KOVAN.description": "Gain {Block:diff()} [gold]Block[/gold].",
+  "KOVANMOD-DEFEND_KOVAN.title": "Defend",
+
+  "KOVANMOD-PIN_DOWN.description": "Deal {Damage:diff()} damage.\nApply {IfUpgraded:show:2 [gold]Nails[/gold]|1 [gold]Nail[/gold]}.",
+  "KOVANMOD-PIN_DOWN.title": "Pin Down",
+
+  "KOVANMOD-RIP_FREE.description": "Deal {Damage:diff()} damage.\nTrigger [gold]Nails[/gold].",
+  "KOVANMOD-RIP_FREE.title": "Rip Free",
+
+
+
+  
+  "KOVANMOD-JUNK.description": "When played you get one of this effects.\nGain {Block:diff()} [gold]Block[/gold].\nDraw {Cards:diff()} card{IfUpgraded:show:s|}.\nApply {IfUpgraded:show:3|2} [gold]Nails[/gold].",
+  "KOVANMOD-JUNK.title": "Junk",
+
+
+
+  "KOVANMOD-RETAIN_SELECT_PROMPT": "Choose cards to Retain this turn.",
+  
+  
+  
+  "KOVANMOD-IMPALE.description": "Deal {Damage:diff()} damage.\nApply {IfUpgraded:show:3|2} [gold]Nails[/gold].",
+  "KOVANMOD-IMPALE.title": "Impale",
+
+  "KOVANMOD-RUSTY_PLATES.description": "Gain {Block:diff()} [gold]Block[/gold].\nIf the target has [gold]Nails[/gold] apply {IfUpgraded:show: 2|1} [gold]Weak[/gold].",
+  "KOVANMOD-RUSTY_PLATES.title": "Rusty Plates",
+
+  "KOVANMOD-IRON_STRIKE.description": "Deal {Damage:diff()} damage.\nIf the target has [gold]Nails[/gold] hits 2 times.",
+  "KOVANMOD-IRON_STRIKE.title": "Iron Strike",
+
+  "KOVANMOD-SCATTERED_NAILS.description": "Draw 2 cards.\nApply {IfUpgraded:show:4|2} [gold]Nails[/gold] to ALL enemies.",
+  "KOVANMOD-SCATTERED_NAILS.title": "Scattered Nails",
+
+  "KOVANMOD-RICOCHET.description": "Deal {Damage:diff()} damage,\napply {IfUpgraded:show:2|1} [gold]Nails[/gold]\nto the target and to a random enemy.",
+  "KOVANMOD-RICOCHET.title": "Ricochet",
+
+  "KOVANMOD-NAIL_SPRAY.description": "Deal {Damage:diff()} damage and apply {IfUpgraded:show:2 [gold]Nails[/gold]|1 [gold]Nail[/gold]} to ALL enemies.",
+  "KOVANMOD-NAIL_SPRAY.title": "Nail Spray",
+
+  "KOVANMOD-TWIST_KNIFE.description": "Deal {Damage:diff()} damage.\nApply 1 [gold]Nail[/gold].\nIf the target has [gold]Nails[/gold] apply {IfUpgraded:show:3|2} more.",
+  "KOVANMOD-TWIST_KNIFE.title": "Twist Knife",
+
+  "KOVANMOD-SCAVENGE.description": "Deal {Damage:diff()} damage.\nShuffle {Cards:diff()} [gold]Junk[/gold] into the [gold]Draw Pile[/gold].",
+  "KOVANMOD-SCAVENGE.title": "Scavenge",
+
+  "KOVANMOD-SALVAGE.description": "Choose a card in your\n[gold]Hand[/gold] to [gold]Transform[/gold] into\n{IfUpgraded:show:[gold]Barbed Strike+[/gold]|[gold]Barbed Strike[/gold]}.",
+  "KOVANMOD-SALVAGE.title": "Salvage",
+
+  "KOVANMOD-BODY_ARMOR.description": "Gain {Block:diff()} [gold]Block[/gold].\n[gold]Retain[/gold] up to {Cards:diff()} {IfUpgraded:show:cards|card} this turn.",
+  "KOVANMOD-BODY_ARMOR.title": "Body Armor",
+
+
+
+
+  "KOVANMOD-SILVER_STAKE.description": "Deal {Damage:diff()} damage.\nGive the same amount of [gold]Nails[/gold] to a random enemy.",
+  "KOVANMOD-SILVER_STAKE.title": "Silver Stake",
+
+  "KOVANMOD-BRAMBLE_VEST.description": "Gain {Block:diff()} [gold]Block[/gold].\nWhenever you are attacked this turn, apply {IfUpgraded:show:7|5} [gold]Nails[/gold] to the attacker.",
+  "KOVANMOD-BRAMBLE_VEST.title": "Bramble Vest",
+
+  "KOVANMOD-TOOLBOX.description": "Apply {IfUpgraded:show:8|5} [gold]Nails[/gold].\nNext turn draw 2 cards.\nThe enemy gain 1 [gold]Strength[/gold].",
+  "KOVANMOD-TOOLBOX.title": "Toolbox",
+
+  "KOVANMOD-FIVE_POINT_STRIKE.description": "Deal {Damage:diff()} damage twice.\nTrigger [gold]Nails[/gold].\nApply {IfUpgraded:show:5|3} [gold]Nails[/gold].",
+  "KOVANMOD-FIVE_POINT_STRIKE.title": "Five Point Strike",
+
+  "KOVANMOD-DETERMINATION.description": "Whenever you give [gold]Strength[/gold] to an enemy, you gain {IfUpgraded:show:2|1} [gold]Strength[/gold].",
+  "KOVANMOD-DETERMINATION.title": "Determination",
+
+  "KOVANMOD-CHAIN_REACTION.description": "If any enemy has at least 6 [gold]Nails[/gold], consume them and draw {Cards:diff()} cards.",
+  "KOVANMOD-CHAIN_REACTION.title": "Chain Reaction",
+
+  "KOVANMOD-TIT_FOR_TAT.description": "Steal all the [gold]Strength[/gold] from the enemy and gain that amount in [gold]Dexterity[/gold].",
+  "KOVANMOD-TIT_FOR_TAT.title": "Tit for Tat",
+
+  "KOVANMOD-BAG_OF_NAILS.description": "Apply {IfUpgraded:show:10|7} [gold]Nails[/gold].\nWhenever you apply [gold]Nails[/gold], reduce this cost by {energyPrefix:energyIcons(1)}.",
+  "KOVANMOD-BAG_OF_NAILS.title": "Bag of Nails",
+  
+  "KOVANMOD-THROWING_NAILS.description": "[gold]Expertise[/gold].\nDeal {Damage:diff()} damage and apply {IfUpgraded:show:3|2} [gold]Nails[/gold] to a random enemy.\nPut this card on top of your [gold]Draw Pile[/gold].",
+  "KOVANMOD-THROWING_NAILS.title": "Throwing Nails",
+  "KOVANMOD-NAIL_BARRAGE.description": "Deal {Damage:diff()} damage and apply {IfUpgraded:show:3|2} [gold]Nails[/gold] thrice to a random enemy.",
+  "KOVANMOD-NAIL_BARRAGE.title": "Nail Barrage",
+
+  "KOVANMOD-RECYCLE.description": "The first [gold]Junk[/gold] you play each turn is played an extra time.",
+  "KOVANMOD-RECYCLE.title": "Recycle",
+
+  "KOVANMOD-NAIL_GUN.description": "Deal {Damage:diff()} damage.\nApply {IfUpgraded:show:3|2} [gold]Nails[/gold].\nShuffle 1 [gold]Dazed[/gold] into the [gold]Draw Pile[/gold].\nReturn this card to your [gold]Hand[/gold].",
+  "KOVANMOD-NAIL_GUN.title": "Nail Gun",
+
+
+
+
+  "KOVANMOD-ANCIENT_RECALL.description": "Trigger [gold]Nails[/gold] from ALL enemies.\nGive the same amount to an enemy.",
+  "KOVANMOD-ANCIENT_RECALL.title": "Ancient Recall",
+
+  "KOVANMOD-SAKAAR.description": "Fill your [gold]Hand[/gold] with {IfUpgraded:show:[gold]Junk+[/gold]|[gold]Junk[/gold]}.\nALL enemies gain 1 [gold]Strength[/gold].",
+  "KOVANMOD-SAKAAR.title": "Sakaar",
+
+  "KOVANMOD-HAMMERFALL.description": "Deal {Damage:diff()} damage.\nTrigger [gold]Nails[/gold] without consuming them.\nApply {IfUpgraded:show:10|6} [gold]Nails[/gold].",
+  "KOVANMOD-HAMMERFALL.title": "Hammerfall"
+}

@@ -1,0 +1,17 @@
+{
+  "KOVANMOD-NAIL_POWER.description": "When triggered deal damage equal to the amount on the target, and remove all the stacks. Each turn, Nails is reduced by 1.",
+  "KOVANMOD-NAIL_POWER.smartDescription": "When triggered deal damage equal to the amount on the target, and remove all the stacks. Each turn, Nails is reduced by 1.",
+  "KOVANMOD-NAIL_POWER.title": "Nail",
+
+  "KOVANMOD-BRAMBLE_VEST_POWER.description": "Whenever you are attacked this turn, apply X Nails to the attacker.",
+  "KOVANMOD-BRAMBLE_VEST_POWER.smartDescription": "Whenever you are attacked this turn, apply X Nails to the attacker.",
+  "KOVANMOD-BRAMBLE_VEST_POWER.title": "Bramble Vest",
+
+  "KOVANMOD-DETERMINATION_POWER.description": "Whenever you give Strength to an enemy you gain Strength.",
+  "KOVANMOD-DETERMINATION_POWER.smartDescription": "Whenever you give Strength to an enemy you gain Strength.",
+  "KOVANMOD-DETERMINATION_POWER.title": "Determination",
+  
+  "KOVANMOD-RECYCLE_POWER.description": "The first Junk you play each turn is played an extra time.",
+  "KOVANMOD-RECYCLE_POWER.smartDescription": "The first Junk you play each turn is played an extra time.",
+  "KOVANMOD-RECYCLE_POWER.title": "Recycle"
+}

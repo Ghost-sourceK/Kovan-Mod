@@ -1,0 +1,13 @@
+{
+  "KOVANMOD-SCRY.description": "Look at the top X cards of your draw pile. You may discard any of them.",
+  "KOVANMOD-SCRY.title": "Scry",
+
+  "KOVANMOD-NAILS.description": "When triggered deal damage equal to the amount on the target, and remove all the stacks. Each turn, Nails is reduced by [blue]1[/blue].",
+  "KOVANMOD-NAILS.title": "Nails",
+
+  "KOVANMOD-BARBED.description": "This card deals [blue]2[/blue] additional damage and applies [blue]3[/blue] [gold]Nails[/gold].",
+  "KOVANMOD-BARBED.title": "Barbed",
+
+  "KOVANMOD-EXPERTISE.description": "This card [gold]Transforms[/gold] after being played 2 times.",
+  "KOVANMOD-EXPERTISE.title": "Expertise"
+}
