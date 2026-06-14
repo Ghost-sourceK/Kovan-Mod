@@ -1,0 +1,12 @@
+D:\RiderProjects\KovanMod\.godot\mono\temp\bin\ExportRelease\KovanMod.deps.json
+D:\RiderProjects\KovanMod\.godot\mono\temp\bin\ExportRelease\KovanMod.dll
+D:\RiderProjects\KovanMod\.godot\mono\temp\bin\ExportRelease\KovanMod.pdb
+D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\KovanMod.csproj.AssemblyReference.cache
+D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\KovanMod.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\KovanMod.AssemblyInfoInputs.cache
+D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\KovanMod.AssemblyInfo.cs
+D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\KovanMod.csproj.CoreCompileInputs.cache
+D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\KovanMod.dll
+D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\refint\KovanMod.dll
+D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\KovanMod.pdb
+D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\ref\KovanMod.dll

@@ -1,0 +1,5 @@
+D:\RiderProjects\KovanMod\bin\ExportRelease\net9.0\publish\KovanMod.dll
+D:\RiderProjects\KovanMod\bin\ExportRelease\net9.0\publish\KovanMod.pdb
+D:\RiderProjects\KovanMod\bin\ExportRelease\net9.0\publish\GodotSharp.dll
+D:\RiderProjects\KovanMod\bin\ExportRelease\net9.0\publish\GodotSharpEditor.dll
+D:\RiderProjects\KovanMod\bin\ExportRelease\net9.0\publish\KovanMod.deps.json

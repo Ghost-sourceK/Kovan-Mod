@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4aOqcQSppY=",
+  "success": true,
+  "projectFilePath": "D:\\RiderProjects\\KovanMod\\KovanMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simone\\.nuget\\packages\\alchyr.sts2.baselib\\3.2.1\\alchyr.sts2.baselib.3.2.1.nupkg.sha512",
+    "C:\\Users\\Simone\\.nuget\\packages\\alchyr.sts2.modanalyzers\\0.1.9\\alchyr.sts2.modanalyzers.0.1.9.nupkg.sha512",
+    "C:\\Users\\Simone\\.nuget\\packages\\godot.sourcegenerators\\4.5.1\\godot.sourcegenerators.4.5.1.nupkg.sha512",
+    "C:\\Users\\Simone\\.nuget\\packages\\godotsharp\\4.5.1\\godotsharp.4.5.1.nupkg.sha512",
+    "C:\\Users\\Simone\\.nuget\\packages\\godotsharpeditor\\4.5.1\\godotsharpeditor.4.5.1.nupkg.sha512",
+    "C:\\Users\\Simone\\.nuget\\packages\\krafs.publicizer\\2.3.0\\krafs.publicizer.2.3.0.nupkg.sha512",
+    "C:\\Users\\Simone\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.17\\microsoft.netcore.app.ref.9.0.17.nupkg.sha512",
+    "C:\\Users\\Simone\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.17\\microsoft.windowsdesktop.app.ref.9.0.17.nupkg.sha512",
+    "C:\\Users\\Simone\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.17\\microsoft.aspnetcore.app.ref.9.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
