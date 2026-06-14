@@ -9,6 +9,8 @@ out/
 .classpath
 .project
 .settings/
+packages/
+bin/
 
 # maven build target
 target/
