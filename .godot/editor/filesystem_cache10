@@ -1,11 +1,11 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1781284068
+::res://::1781437799
 export_presets.cfg::TextFile::-1::1781023961::0::1::::<><><>0<>0<><>::
 KovanMod.json::JSON::-1::1781033330::0::1::::<><><>0<>0<><>::
 ::res://bin/::1781032018
 ::res://bin/ExportRelease/::1781032018
 ::res://bin/ExportRelease/net9.0/::1781032018
-::res://bin/ExportRelease/net9.0/publish/::1781433862
+::res://bin/ExportRelease/net9.0/publish/::1781454283
 KovanMod.deps.json::JSON::-1::1781285016::0::1::::<><><>0<>0<><>::
 ::res://KovanMod/::1781032209
 mod_image.png::CompressedTexture2D::4941911846724371972::1781023961::1781032209::1::::<><><>0<>0<>532e955355cc85f88003bd2eb0dbb5a1<>res://.godot/imported/mod_image.png-e7e6131da227b27cf419272c37bedacb.ctex::
@@ -44,8 +44,8 @@ relics.json::JSON::-1::1781031676::0::1::::<><><>0<>0<><>::
 static_hover_tips.json::JSON::-1::1781023961::0::1::::<><><>0<>0<><>::
 ::res://KovanModCode/::1781284675
 MainFile.cs::CSharpScript::4441091282571183855::1781023995::0::1::::<><><>0<>0<><>::
-::res://KovanModCode/Abstract/::1781433821
-KovanModCardModel.cs::CSharpScript::567210788172368533::1781433821::0::1::::<><><>0<>0<><>::
+::res://KovanModCode/Abstract/::1781454263
+KovanModCardModel.cs::CSharpScript::567210788172368533::1781454263::0::1::::<><><>0<>0<><>::
 KovanModPotion.cs::CSharpScript::8413685629058027695::1781023961::0::1::::<><><>0<>0<><>::
 KovanModPower.cs::CSharpScript::5936877525168890084::1781023995::0::1::::<><><>0<>0<><>::
 KovanModRelic.cs::CSharpScript::3167862499038558123::1781023995::0::1::::<><><>0<>0<><>::
@@ -77,13 +77,13 @@ Hammerfall.cs::CSharpScript::408386012894229571::1781263757::0::1::::<><><>0<>0<
 Sakaar.cs::CSharpScript::6924296516308480597::1781260779::0::1::::<><><>0<>0<><>::
 ::res://KovanModCode/Cards/Token/::1781223117
 Junk.cs::CSharpScript::7864188548191202228::1781223117::0::1::::<><><>0<>0<><>::
-::res://KovanModCode/Cards/Uncommon/::1781384094
+::res://KovanModCode/Cards/Uncommon/::1781440458
 BagOfNails.cs::CSharpScript::2290879075293863921::1781280442::0::1::::<><><>0<>0<><>::
 BrambleVest.cs::CSharpScript::423034975948187264::1781221386::0::1::::<><><>0<>0<><>::
 ChainReaction.cs::CSharpScript::1402690259181473351::1781384094::0::1::::<><><>0<>0<><>::
 FivePointStrike.cs::CSharpScript::9046905547643963312::1781262555::0::1::::<><><>0<>0<><>::
 NailBarrage.cs::CSharpScript::2614841926552767033::1781345454::0::1::::<><><>0<>0<><>::
-NailGun.cs::CSharpScript::7721819290457446268::1781366393::0::1::::<><><>0<>0<><>::
+NailGun.cs::CSharpScript::7721819290457446268::1781440458::0::1::::<><><>0<>0<><>::
 SilverStake.cs::CSharpScript::4063267104754102848::1781044416::0::1::::<><><>0<>0<><>::
 ThrowingNails.cs::CSharpScript::4204191719290910621::1781345444::0::1::::<><><>0<>0<><>::
 TitForTat.cs::CSharpScript::5054852217347604028::1781277991::0::1::::<><><>0<>0<><>::
@@ -110,7 +110,7 @@ NailPower.cs::CSharpScript::1002099141722215617::1781383967::0::1::::<><><>0<>0<
 RecyclePower.cs::CSharpScript::6543170722353189155::1781350727::0::1::::<><><>0<>0<><>::
 ::res://KovanModCode/Relics/::1781032480
 FirstStrike.cs::CSharpScript::8577744387470708795::1781032480::0::1::::<><><>0<>0<><>::
-::res://KovanModCode/Utility/::1781433366
+::res://KovanModCode/Utility/::1781454111
 CombatTargeting.cs::CSharpScript::5643713299065318938::1781103946::0::1::::<><><>0<>0<><>::
 CreateCardCmd.cs::CSharpScript::6642385997558882072::1781202382::0::1::::<><><>0<>0<><>::
 IOnScryed.cs::CSharpScript::8024383868780187436::1781032564::0::1::::<><><>0<>0<><>::
@@ -119,4 +119,4 @@ NailsSystem.cs::CSharpScript::6186536876289105232::1781262752::0::1::::<><><>0<>
 PurgeCardCmd.cs::CSharpScript::306623462091035766::1781308888::0::1::::<><><>0<>0<><>::
 PurgeSystem.cs::CSharpScript::570248904413383582::1781308865::0::1::::<><><>0<>0<><>::
 ScryCmd.cs::CSharpScript::1073353224965092259::1781032599::0::1::::<><><>0<>0<><>::
-VanillaArtPool.cs::CSharpScript::24969433764988363::1781433366::0::1::::<><><>0<>0<><>::
+VanillaArtPool.cs::CSharpScript::24969433764988363::1781454111::0::1::::<><><>0<>0<><>::

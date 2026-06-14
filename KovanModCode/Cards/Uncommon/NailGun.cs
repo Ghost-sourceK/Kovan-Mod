@@ -19,6 +19,7 @@ public sealed class NailGun : KovanModCardModel
         WithDamage(10, 3);
         WithVar("nails", 2, 1);
         WithTip(NailsKeyWord.Nails);
+        WithTip(typeof(Dazed));
     }
 
     protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)

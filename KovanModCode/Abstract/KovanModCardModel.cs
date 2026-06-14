@@ -9,6 +9,7 @@ using MegaCrit.Sts2.Core.Entities.Cards;
 namespace KovanMod.KovanModCode.Abstract;
 
 [Pool(typeof(KovanModCardPool))]
+//Remember to change the class name with your mod name.
 public abstract class KovanModCardModel(int canonicalEnergyCost, CardType type, CardRarity rarity, TargetType targetType, bool shouldShowInCardLibrary = true) :
     ConstructedCardModel(canonicalEnergyCost, type, rarity, targetType, shouldShowInCardLibrary)
 {
@@ -22,7 +23,7 @@ public abstract class KovanModCardModel(int canonicalEnergyCost, CardType type, 
         {
             string customPath = $"{Id.Entry.RemovePrefix().ToLowerInvariant()}.png".BigCardImagePath();
             
-            return Godot.ResourceLoader.Exists(customPath) ? customPath : VanillaArtPool.Get(Id.Entry, rarity);
+            return Godot.ResourceLoader.Exists(customPath) ? customPath : VanillaArtPool.Get(Id.Entry, Rarity);
         }
     }
 
@@ -38,7 +39,7 @@ public abstract class KovanModCardModel(int canonicalEnergyCost, CardType type, 
         {
             string customPath = $"{Id.Entry.RemovePrefix().ToLowerInvariant()}.png".CardImagePath();
             
-            return Godot.ResourceLoader.Exists(customPath) ? customPath : VanillaArtPool.Get(Id.Entry, rarity);
+            return Godot.ResourceLoader.Exists(customPath) ? customPath : VanillaArtPool.Get(Id.Entry, Rarity);
         }
     }
     

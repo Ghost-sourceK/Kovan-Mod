@@ -10,3 +10,4 @@ D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\KovanMod.dll
 D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\refint\KovanMod.dll
 D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\KovanMod.pdb
 D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\ref\KovanMod.dll
+D:\RiderProjects\KovanMod\.godot\mono\temp\obj\ExportRelease\KovanMod.sourcelink.json
